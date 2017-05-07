@@ -1,0 +1,2 @@
+gcc-ar qc libwallet.a  CMakeFiles/wallet.dir/wallet/wallet_rpc_server.cpp.o CMakeFiles/wallet.dir/wallet/wallet2.cpp.o
+gcc-ranlib libwallet.a
